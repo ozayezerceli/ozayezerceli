@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Özay Ezerceli</h2>
+<h2 align="center">Hi 👋, I'm OzTheWizard</h2>
 <h3 align="center">AI Research Engineer | LLM & NLP Specialist</h3>
 
 <p align="center">
