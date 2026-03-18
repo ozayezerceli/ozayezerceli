@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🔬 **AI Research Engineer** at NewMind AI
+- 🔬 **AI Scientist** at Turkcell
 - 🎓 **PhD Candidate** at Işık University | **MSc Computer Science** (3.93/4.0 GPA)
 - 🤖 Specializing in **Large Language Models** and **NLP**
 - 📊 Expert in **LLM fine-tuning**, **PEFT methods**, and **domain-specific models**
